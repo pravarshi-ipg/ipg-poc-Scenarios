@@ -1,0 +1,13 @@
+APPLICATION	CarMaker 10.2 - Car_Generic #196 (linux64-10.2)
+COMPILED	fh@obelix.ipg 2021-10-26 11:13:50
+ 
+FIRST_INIT	(internal default used)	2022-11-15 16:48:27
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:48:27
+SIM_START	Examples/BasicFunctions/Driver/BackAndForth	2022-11-15 16:48:27
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/BackAndForth
+
+SHUTDOWN	CarMaker quick shutdown initiated
+
